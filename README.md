@@ -26,7 +26,7 @@ The project replicates the look and feel of Amazon's main page, focusing on:
 - Improve accessibility and mobile responsiveness further
 
 ---
-
+##Screenshots
 ![image](https://github.com/user-attachments/assets/b240b48b-c08e-4885-a0f3-72acbe7cb168)
 ![image](https://github.com/user-attachments/assets/bee21116-160b-4ffa-8df7-ae7f994ee905)
 
